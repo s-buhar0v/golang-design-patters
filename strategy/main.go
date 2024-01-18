@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.con/s-buhar0v/golang-design-patters/strategy/duck"
+	"github.com/s-buhar0v/golang-design-patters/strategy/duck"
 )
 
 func main() {
