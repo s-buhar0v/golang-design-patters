@@ -3,7 +3,7 @@ package pizza
 import (
 	"fmt"
 
-	"github.com/s-buhar0v/golang-design-patters/decorator/pizzastore/ingredients"
+	"github.com/s-buhar0v/golang-design-patters/fabric/pizzastore/ingredients"
 )
 
 type IPizza interface {

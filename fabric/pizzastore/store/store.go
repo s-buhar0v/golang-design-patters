@@ -1,6 +1,6 @@
 package store
 
-import "github.com/s-buhar0v/golang-design-patters/decorator/pizzastore/pizza"
+import "github.com/s-buhar0v/golang-design-patters/fabric/pizzastore/pizza"
 
 type IPizzaStore interface {
 	createCheesePizza() pizza.IPizza

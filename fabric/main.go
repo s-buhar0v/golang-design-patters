@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/s-buhar0v/golang-design-patters/decorator/pizzastore/store"
+	"github.com/s-buhar0v/golang-design-patters/fabric/pizzastore/store"
 )
 
 func main() {
